@@ -1,0 +1,2207 @@
+[
+ {
+  "key": "dd5e3c58",
+  "text": "Hi, my name is Priya.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "32caa75f",
+  "text": "Hello, I’m Priya.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4df0d319",
+  "text": "I’m from Jaipur.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "fe73ad93",
+  "text": "I come from Jaipur.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "90224074",
+  "text": "I’m a student.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c3f347e7",
+  "text": "Nice to meet you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d8929c8c",
+  "text": "It’s nice to meet you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f29afc2c",
+  "text": "Hi! I’m Aman. What’s your name?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "010b0900",
+  "text": "Hi Aman, I’m Neha. Nice to meet you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a8b5bc5a",
+  "text": "Nice to meet you too. Where are you from?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "0796636d",
+  "text": "I’m from Indore. I work in a bank.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e9854437",
+  "text": "Hi, I’m Sana. I’m from Bhopal. I’m a college student and I’m learning English.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ecfbfaa2",
+  "text": "I am tired.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "589c3292",
+  "text": "I’m tired.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a64552c1",
+  "text": "She is my sister.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5b8b252f",
+  "text": "She’s my sister.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "aadd0e9a",
+  "text": "We are ready.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "91336784",
+  "text": "We’re ready.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "92559fcd",
+  "text": "This phone is new.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8742dff2",
+  "text": "You are very helpful.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "63812fa8",
+  "text": "Are you ready for the test?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "71df31ca",
+  "text": "Yes, I am. But I’m a little nervous.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "0a610a00",
+  "text": "Don’t worry. The questions are easy.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a5f1c7e8",
+  "text": "Thanks! You are always so positive.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "61f03374",
+  "text": "My mother is very kind. My brothers are funny. I am the youngest in my family.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cd203ed8",
+  "text": "What is your name?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "54f7703a",
+  "text": "What’s your name?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "1485066a",
+  "text": "Where is the washroom?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "55dbbf21",
+  "text": "Where’s the restroom?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e1df1d41",
+  "text": "How are you?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8869f3f3",
+  "text": "How much is this?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "60863ee9",
+  "text": "Excuse me, where is the HR department?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "35cd144e",
+  "text": "It’s on the second floor.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "9931cc65",
+  "text": "Thank you. And what time is lunch?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "36a3cdc6",
+  "text": "Lunch is at one o’clock.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "00eb877c",
+  "text": "Excuse me, where is the nearest ATM? How much is this water bottle? What time do you close?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9784a5f7",
+  "text": "I would like a glass of water.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "615c5c6b",
+  "text": "I need a glass of water.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "288b66cc",
+  "text": "Could I have the menu, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0f1bcfe8",
+  "text": "Can I see the menu, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "bf7ac1c8",
+  "text": "I’ll have a masala dosa.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5e0592ca",
+  "text": "Less spicy, please.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b94730a6",
+  "text": "Not too spicy, please.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "80dce233",
+  "text": "Could we have the bill, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "52bde295",
+  "text": "Can I get the bill, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "7251ebbf",
+  "text": "Good evening! Are you ready to order?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "6bbb9e96",
+  "text": "Yes. I’d like a veg thali, please.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6164840c",
+  "text": "Sure. Anything to drink?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "0f2cf4a7",
+  "text": "Could I have a sweet lassi?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "53aa2d98",
+  "text": "Of course. It’ll be ready in ten minutes.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "d7681fbc",
+  "text": "I’d like a paneer roll and a cold coffee, please. Could you make it less spicy?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ffe89533",
+  "text": "What’s the price of this?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "fd05fb20",
+  "text": "Do you have this in a larger size?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8ad04ba6",
+  "text": "Is this available in a bigger size?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "53bcc10b",
+  "text": "Can I try this on?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0fa30cfc",
+  "text": "Could you give me a small discount?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b7b99d95",
+  "text": "Excuse me, how much is this kurta?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b006b913",
+  "text": "It’s eight hundred rupees.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "92bd601d",
+  "text": "Do you have it in green?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b04de8ab",
+  "text": "Yes, here you are. Would you like to try it on?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "5c0dad6e",
+  "text": "Yes, please. Where is the trial room?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2fa30ad1",
+  "text": "How much is this bag? It’s nice. Do you have it in black?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4c2eac1d",
+  "text": "How do I get to the metro station?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e9151d9e",
+  "text": "Could you tell me the way to the metro station?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f4cb9f0d",
+  "text": "Could you help me, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f1ac4ccc",
+  "text": "Can you help me, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b2d48f75",
+  "text": "Go straight and then turn left.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ef22fc42",
+  "text": "It’s opposite the bank.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f527fbda",
+  "text": "Excuse me, could you help me? I’m looking for City Hospital.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "1087a754",
+  "text": "Sure. Go straight and turn right at the signal.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6508df26",
+  "text": "Is it far from here?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "4c895361",
+  "text": "No, it’s about five minutes on foot. It’s opposite the park.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "297ffb12",
+  "text": "Thank you so much!",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "29445d73",
+  "text": "Excuse me, how do I get to the railway station? Is it far from here?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "029a9ccc",
+  "text": "I wake up at six.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c3119078",
+  "text": "I get up at 6 a.m.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b1b43028",
+  "text": "She goes to the office by bus.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0d8d889f",
+  "text": "We have dinner together.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "25a39a4e",
+  "text": "My brother plays cricket every day.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e9df3cbd",
+  "text": "What time do you usually start work?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "618819ad",
+  "text": "I start at nine. I take the metro.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "521642a9",
+  "text": "My sister drives, but I prefer the bus.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4ec976dc",
+  "text": "The bus is relaxing. You can read on the way.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "7e3f7c69",
+  "text": "I wake up at six thirty. I drink a glass of water and go for a short walk. Then I have breakfast and leave for college at eight.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8ca7933a",
+  "text": "I went to the market yesterday.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "fdc860fe",
+  "text": "We watched a movie.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "27b78baf",
+  "text": "We saw a film.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "7168a86c",
+  "text": "I didn’t understand this.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2dde6588",
+  "text": "I did not understand this.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "745b826c",
+  "text": "Did you eat?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "929d8872",
+  "text": "Have you eaten?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c51f484a",
+  "text": "What did you do on Sunday?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "aca1dd7b",
+  "text": "I visited my cousins. We played cards and ate biryani.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "9e8afc31",
+  "text": "Nice! Did you watch the match?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6d9998b9",
+  "text": "No, I didn’t. I missed it!",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "5aba4002",
+  "text": "Last weekend I cleaned my room, I called my best friend, and I watched a cricket match with my dad.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "76002aad",
+  "text": "I’m going to do an MBA next year.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3ceac7fa",
+  "text": "I’ll call you later.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b2ffc661",
+  "text": "I will call you later.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "fc52c5db",
+  "text": "I am preparing for an interview.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4f1d10a6",
+  "text": "Don’t worry, I’ll help you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a4099e14",
+  "text": "What are you going to do this summer?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "d2de94eb",
+  "text": "I’m going to do an internship in Bengaluru.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a18f51a8",
+  "text": "That’s great! I’ll send you some tips about the city.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "f053b127",
+  "text": "Thanks, I’ll message you when I get there.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "11488ee2",
+  "text": "Next month I’m going to join a gym. I promise I will practise English for ten minutes every day.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0a520766",
+  "text": "I’m a bit nervous.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f332fec2",
+  "text": "I’m proud.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e486aabc",
+  "text": "I feel proud.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3fc54b8f",
+  "text": "I’m really excited.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9c7f9a90",
+  "text": "He looks worried.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5557a649",
+  "text": "How was the interview? Are you okay?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "201f0ce6",
+  "text": "I was nervous at first, but then I felt confident.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "bdec294a",
+  "text": "I’m really proud of you!",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "fc8450ff",
+  "text": "Thanks. Now I’m just exhausted!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "930a61db",
+  "text": "Today I feel a bit tired because I slept late, but I’m excited about my weekend trip.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "036cf581",
+  "text": "I live with my parents.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d8cdb0ca",
+  "text": "There are three rooms in our house.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b09e802d",
+  "text": "Our house has three rooms.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cf74e0a5",
+  "text": "My uncle lives in Mumbai.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "45ae928c",
+  "text": "I have a younger sister.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "36471409",
+  "text": "I have a little sister.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f8725991",
+  "text": "Do you live alone?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "58909be2",
+  "text": "No, I live with my wife and my mother.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "c33179b2",
+  "text": "How many rooms are there in your flat?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c97dcc7c",
+  "text": "There are two bedrooms and a big kitchen.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "6b16ee22",
+  "text": "I live with my parents and my younger brother. My favourite place is our balcony because there are lots of plants.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "89efa73a",
+  "text": "I always have breakfast.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4df02170",
+  "text": "She sometimes comes late.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "966f9a20",
+  "text": "Sometimes she comes late.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "bfbf6dc6",
+  "text": "I never lie.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "abf19882",
+  "text": "We usually watch a movie on Sundays.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "66df7d9d",
+  "text": "Do you cook every day?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "ff076434",
+  "text": "Usually, yes. But on Fridays I sometimes order food.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "8f4a08d9",
+  "text": "I never cook. I’m always too tired!",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "22b8c21a",
+  "text": "Let’s cook together on Sunday, then.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "f31b6539",
+  "text": "I always drink tea in the morning. I sometimes go running. I never skip my English practice!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "588172f3",
+  "text": "I currently work as a support executive at a software company.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e763064d",
+  "text": "I have a bachelor’s degree in commerce.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "664890a9",
+  "text": "I graduated in commerce.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "40342c9f",
+  "text": "I enjoy solving customer problems.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "318ef134",
+  "text": "I’m looking for a role where I can keep learning.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c150a402",
+  "text": "So, tell me about yourself.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "db8695ed",
+  "text": "Sure. I’m currently a customer support executive at a telecom company.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "0bffd631",
+  "text": "Before that, I completed my B.Com from Kanpur University.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "2a484d03",
+  "text": "Now I’m looking for a team lead role where I can use my communication skills.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "4380eef3",
+  "text": "That’s a clear summary. Thank you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a3c347ae",
+  "text": "I’m currently a final-year B.Sc. student in Nagpur. Last summer I did an internship in a pharma lab, where I learned quality testing. Now I’m looking for a role in quality control where I can grow.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e517de04",
+  "text": "Could you please check this report?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6b615e82",
+  "text": "Could you speak a little more slowly?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ddc80b12",
+  "text": "Could you slow down a little, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0dbb3eac",
+  "text": "Would it be okay if I took tomorrow off?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b9c6b2cb",
+  "text": "Could I take leave tomorrow?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a7a1bec7",
+  "text": "Please let me know.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e2688043",
+  "text": "Hi Mr. Rao, do you have a minute?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "29f6d18c",
+  "text": "Sure, what’s up?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "d67339cf",
+  "text": "I was wondering if you could review my presentation before Friday.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "171ca070",
+  "text": "Of course. Please send it to me today.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "c01a227d",
+  "text": "Thank you, I really appreciate it.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6b262ba8",
+  "text": "Hi Priya, would you mind sharing the meeting notes by this evening? Thanks a lot!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e9fdcd82",
+  "text": "Hello, this is Anita from Bright Solutions.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f523288f",
+  "text": "Could I speak to Mr. Verma, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a6e13b3f",
+  "text": "Sorry, you’re breaking up.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "01b34993",
+  "text": "Sorry, the line isn’t clear.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cdaca844",
+  "text": "I’ll call you back in ten minutes.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cd07bef6",
+  "text": "Good morning, Sunrise Traders. How can I help you?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b6f23b4e",
+  "text": "Hi, this is Farhan from Metro Retail. Could I speak to Ms. Kapoor?",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "f4bb35d4",
+  "text": "I’m afraid she’s in a meeting. Would you like to leave a message?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2dcd702a",
+  "text": "Yes, please ask her to call me back about the order.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "72c9b99b",
+  "text": "Sure. I’ll pass it on.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "27d1a90f",
+  "text": "Good afternoon, this is Ritu Sharma. I applied for the accounts position. Could I speak to the HR manager, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "fab1f6ee",
+  "text": "That’s a good question.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "19c285d6",
+  "text": "Let me think for a second.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "601e0db6",
+  "text": "Give me a moment to think.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5dc438c6",
+  "text": "How can I put it",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "41bca41c",
+  "text": "How should I say this",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "24b48421",
+  "text": "I’m not completely sure, but",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8594c29b",
+  "text": "What do you like most about your city?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "22911b11",
+  "text": "Hmm, that’s a good question. Let me think for a second",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "53ed0902",
+  "text": "I’d say the food. The street food is amazing.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "51b5ee6c",
+  "text": "That sounds delicious!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cb4cfd4a",
+  "text": "Hmm, let me think I’d probably sleep late, then meet my friends for chai and watch a movie in the evening.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "aee20e4d",
+  "text": "Sorry, could you say that again?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9b279e05",
+  "text": "Sorry, could you repeat that?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "79131ca4",
+  "text": "I didn’t quite catch that.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cdb912a5",
+  "text": "What do you mean by “deadline”?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4ed9f7b9",
+  "text": "Your ticket number is PX-4471-B.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "4d6fded5",
+  "text": "Sorry, could you repeat that a little more slowly?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c51c8a80",
+  "text": "Of course. P, X, four, four, seven, one, B.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "cdef2ac8",
+  "text": "Got it, thank you!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "acb4e698",
+  "text": "Sorry, could you speak a little more slowly? And what do you mean by “quarterly target”?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "55dfc2c4",
+  "text": "I think online classes are convenient.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c1480a35",
+  "text": "Because we can study from home.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0e8bc92b",
+  "text": "I see your point, but",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d85c22b7",
+  "text": "That’s true, but",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d2626579",
+  "text": "In my opinion, studying in the morning is better.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "dbab3872",
+  "text": "Should students use phones in class?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "65c3db0c",
+  "text": "I think phones are useful because we can look up words quickly.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "944784f3",
+  "text": "I see your point, but they can also be distracting.",
+  "voice": "en-IN-PrabhatNeural"
+ },
+ {
+  "key": "f614faf4",
+  "text": "That’s true. Maybe we can use them only for learning apps.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "54a02c2b",
+  "text": "I think a small town is better because life is calmer. For example, in my hometown I can walk to the market in five minutes.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "82ebad3a",
+  "text": "appointment",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "578b0fa4",
+  "text": "I have a doctor’s appointment at five.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "65950d80",
+  "text": "borrow",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8a2cc14a",
+  "text": "Can I borrow your pen?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "123764b8",
+  "text": "lend",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "31de5ec1",
+  "text": "Could you lend me fifty rupees?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "63807ded",
+  "text": "errand",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "af7c825a",
+  "text": "I need to run a few errands this morning.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5b2455e8",
+  "text": "neighbour",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c71463d4",
+  "text": "Our neighbour waters our plants.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9b76c143",
+  "text": "routine",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "85cef53f",
+  "text": "Exercise is part of my morning routine.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "004ce480",
+  "text": "convenient",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3e48cbdc",
+  "text": "Is 4 p.m. convenient for you?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9280b53d",
+  "text": "nervous",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e1813d82",
+  "text": "I always feel nervous before exams.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2f877277",
+  "text": "confident",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f4dd79a3",
+  "text": "She sounds confident on the phone.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9a4ecb4c",
+  "text": "exhausted",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "11f088d8",
+  "text": "I’m exhausted after the long journey.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8728787f",
+  "text": "grateful",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9eac7fa5",
+  "text": "I’m grateful for your help.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8ec274c9",
+  "text": "proud",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "dd67a62f",
+  "text": "My parents are proud of me.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3a785bf0",
+  "text": "upset",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "85e9cad7",
+  "text": "He was upset about the result.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0edb6c31",
+  "text": "relieved",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "99c410f5",
+  "text": "I was relieved when the train arrived.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "473c0cb5",
+  "text": "deadline",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8a7ac0ad",
+  "text": "The deadline for the report is Friday.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5b155444",
+  "text": "colleague",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b95a436b",
+  "text": "My colleague helped me with Excel.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "aa26cfcc",
+  "text": "schedule",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "82ed1753",
+  "text": "Let me check my schedule.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2b4cb343",
+  "text": "responsible",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "04351ccb",
+  "text": "I was responsible for customer emails.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "92f1f329",
+  "text": "experience",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9f1ac422",
+  "text": "I have two years of experience in sales.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e07a18b0",
+  "text": "strength",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "7bea820e",
+  "text": "My biggest strength is patience.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "47e6744b",
+  "text": "improve",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "608bc6cb",
+  "text": "I want to improve my English.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5e3d7343",
+  "text": "salary",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "74cb58e6",
+  "text": "The salary is paid on the first of every month.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ce7ce693",
+  "text": "journey",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e1a362fd",
+  "text": "The journey to Shimla takes eight hours.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2451943b",
+  "text": "luggage",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "85aad9a0",
+  "text": "Please keep your luggage with you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4ed1f1d8",
+  "text": "delay",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3591e3da",
+  "text": "There is a two-hour delay.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2a4a32b2",
+  "text": "platform",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9f04891d",
+  "text": "Which platform does the train leave from?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "15506da8",
+  "text": "book (a ticket)",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f01e1f56",
+  "text": "I booked a ticket online.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "df6dc76a",
+  "text": "direction",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "18cc7b62",
+  "text": "Am I going in the right direction?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "afeae8e9",
+  "text": "spicy",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3f79ea59",
+  "text": "This curry is too spicy for me.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "35dcc586",
+  "text": "delicious",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3fa85789",
+  "text": "Your mother’s dal is delicious.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "732c1097",
+  "text": "order",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d1ca2fad",
+  "text": "Let’s order some snacks.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "bb4ecf1c",
+  "text": "bill",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0ab739f0",
+  "text": "assignment",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "17319f49",
+  "text": "I finished my assignment last night.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "247a0849",
+  "text": "revise",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "fec8a95a",
+  "text": "I revise my notes every Sunday.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "aa590989",
+  "text": "attend",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "65ee3ff3",
+  "text": "Did you attend the lecture?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "1271ab5c",
+  "text": "explain",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4c0cd353",
+  "text": "Could you explain this again?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "7a95f0a0",
+  "text": "practise",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "fdd20eed",
+  "text": "I practise speaking for ten minutes daily.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "aabd0868",
+  "text": "actually",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "727e6564",
+  "text": "Actually, I’m from Patna, not Delhi.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "826f1d3e",
+  "text": "probably",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e0b4d178",
+  "text": "I’ll probably come by seven.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "10105dcc",
+  "text": "anyway",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a7082d9c",
+  "text": "Anyway, let’s talk about the plan.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "763b7145",
+  "text": "suggest",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "548ccd6a",
+  "text": "Can you suggest a good book?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "20792743",
+  "text": "agree",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "1fd1e463",
+  "text": "I agree with you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "240d56dc",
+  "text": "by the way",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3c2ce96b",
+  "text": "By the way, did you call Ravi?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8cd32eb1",
+  "text": "make sense",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0f9bf468",
+  "text": "Does that make sense?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5cfb9e7d",
+  "text": "figure out",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "acf39f21",
+  "text": "I’ll figure out the bus route.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3512dac5",
+  "text": "I want to learn English.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d1c176ab",
+  "text": "I would like to learn English.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0c8f745f",
+  "text": "I need to learn English.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c99b2b56",
+  "text": "Can you speak more slowly?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "91b1b5b0",
+  "text": "I’m getting ready for an interview.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a81227dd",
+  "text": "I didn’t get that.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "720fc767",
+  "text": "Could I have a glass of water, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ddb24393",
+  "text": "Please make it less spicy.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c9f960f7",
+  "text": "The bill, please.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8de0264b",
+  "text": "Do you have this in a bigger size?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "abdee23d",
+  "text": "Is this available in a larger size?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4666fd92",
+  "text": "Could I try this on?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cbc28cfc",
+  "text": "Could you lower the price a little?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e6b00725",
+  "text": "Where is the railway station?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d3fd919f",
+  "text": "How do I get to the railway station?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "531ce45e",
+  "text": "The train is delayed.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2c34237b",
+  "text": "The train is running late.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4785563c",
+  "text": "How far is it from here?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c34bbaf1",
+  "text": "I’d like one ticket to Delhi, please.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "1c2ae8d8",
+  "text": "One ticket to Delhi, please.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2905d1a2",
+  "text": "Can you help me?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ad6da672",
+  "text": "I’m lost.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d8edcaa2",
+  "text": "I think I’ve lost my way.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "aba09bbb",
+  "text": "My phone has died.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "33b979aa",
+  "text": "My phone’s battery is dead.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "56656345",
+  "text": "My phone switched off.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "dac6a08f",
+  "text": "I’ll call you back later.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f46eec20",
+  "text": "I’d like to take leave tomorrow.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "af5c098f",
+  "text": "Could I take tomorrow off?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "392abf54",
+  "text": "I’ll be a little late for the meeting.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "58017e3c",
+  "text": "I’m running a few minutes late for the meeting.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "be04bd75",
+  "text": "Could you please send the file?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "367d5388",
+  "text": "Please send the file.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9f5b589d",
+  "text": "I have two years of experience.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c1723ad7",
+  "text": "I’ve got two years of experience.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "48124d12",
+  "text": "I’m very tired.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "7f3cabe1",
+  "text": "I’m exhausted.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9d40822e",
+  "text": "I’m feeling nervous.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "72f4fbce",
+  "text": "It was nice meeting you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "47d5f34b",
+  "text": "It was a pleasure meeting you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "1344fe4b",
+  "text": "I miss you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "bda639a2",
+  "text": "What time is it?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "91140c4a",
+  "text": "Do you have the time?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "84a85b4f",
+  "text": "I wake up early every day.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4704f36b",
+  "text": "I get up early every day.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8acb5333",
+  "text": "I don’t have time.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f1daa038",
+  "text": "I’m short on time.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4cd27b56",
+  "text": "Please come in.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ff5e69a1",
+  "text": "Come on in.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f2617936",
+  "text": "Could you say that again, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "38262b66",
+  "text": "What does this word mean?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "fe00a5b9",
+  "text": "What’s the meaning of this word?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "644f2f9a",
+  "text": "Hi! I’m Mira. What’s your name?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "bd30611f",
+  "text": "Lovely to meet you! Where are you from?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3c6b9917",
+  "text": "Oh, a big city! It must be busy. What do you do?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6b5885a5",
+  "text": "Nice! Small towns are usually peaceful. What do you do?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "12b92796",
+  "text": "That sounds like a nice place. What do you do?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "562e98a4",
+  "text": "Great! Studying is a good time to build your English. Why do you want to improve your English?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "79cbcd1f",
+  "text": "Interesting! English will help you a lot at work. Why do you want to improve your English?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6a39afc5",
+  "text": "Thanks for sharing! Why do you want to improve your English?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b219934d",
+  "text": "That’s a great reason. It was really nice meeting you. See you next time!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0b2a87de",
+  "text": "I’m from",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4befbf52",
+  "text": "I work as a/an",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0ecfd3af",
+  "text": "I want to because",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a65b0f8f",
+  "text": "What time do you usually wake up?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "370bf3a1",
+  "text": "Wow, you’re an early riser! What do you do after you wake up?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c8e2ea80",
+  "text": "Nice, you get a good amount of sleep! What do you do after you wake up?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "160f1b72",
+  "text": "Got it. What do you do after you wake up?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "831ffdda",
+  "text": "That sounds like a good start to the day. How do you get to work or college?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b798c0b3",
+  "text": "Okay, that sounds convenient. What do you like to do in the evening?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "691778a9",
+  "text": "That sounds relaxing. Thanks for telling me about your day. You described it clearly!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e1b3f371",
+  "text": "I usually wake up at",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "341da6e6",
+  "text": "First, then",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2abea131",
+  "text": "I go by bus / metro.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d02c40eb",
+  "text": "I enjoy + -ing",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6bf731b8",
+  "text": "No problem, take your time. I’ll note your order when you’re ready. Would you like anything to drink?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "7c61963d",
+  "text": "Great choice! Would you like anything to drink?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "708be36b",
+  "text": "Sure, no drinks. How spicy would you like it?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "bdb7d294",
+  "text": "Coming right up. How spicy would you like it?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "92532611",
+  "text": "Noted! Here’s your food. Is everything okay?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "1deab858",
+  "text": "Happy to hear that! Thank you for visiting! You ordered very politely.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c50a166c",
+  "text": "I’d like, please.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "02197816",
+  "text": "Could I have?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c3c7c7ae",
+  "text": "Could I have the bill, please?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "62e250ed",
+  "text": "Hello! Can I help you find something?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ab316ee1",
+  "text": "Sure, take your time. Let me know if you see something you like. What size do you wear?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cd3d0837",
+  "text": "We have lots of options. What size do you wear?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "33447c54",
+  "text": "Let me check. This one is ₹900. Would you like to try it on?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "582d4b2c",
+  "text": "Yes, we have it in that colour too! So, would you like to buy it?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4d61f3c7",
+  "text": "Of course. So, would you like to buy it?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2511820e",
+  "text": "No problem at all. Thanks for shopping with us. Have a great day!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8deabef0",
+  "text": "I’m looking for",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "93a22ea4",
+  "text": "I wear size",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b20f9bbc",
+  "text": "Do you have it in?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "0f6032c3",
+  "text": "I’ll take it.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a1ecffa3",
+  "text": "Hello, how can I help you?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e72748d6",
+  "text": "Let me check the board. It’s on platform 4, but it’s delayed by thirty minutes.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4d4a69f1",
+  "text": "Sorry for the delay. The waiting room is next to the ticket counter. Anything else?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "81fb6bc8",
+  "text": "You’re welcome! Where are you travelling to, by the way?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "737a3ff3",
+  "text": "The cloakroom is near gate 2. Where are you travelling to, by the way?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4557e099",
+  "text": "Have a wonderful trip! Have a safe journey!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e0b18173",
+  "text": "Is there a waiting room?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5fb8e270",
+  "text": "That’s all, thank you.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "356e93ec",
+  "text": "I’m travelling to for",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "de023db9",
+  "text": "Hi! Is this seat free?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "4eb21b96",
+  "text": "Thanks! Which course are you in?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c3a5ae07",
+  "text": "Oh nice, me too! Which subject do you find the most difficult?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "2e0bd36e",
+  "text": "Maybe we can study together! Do you want to join the study group on Saturday?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "12e1bd05",
+  "text": "No worries, maybe next time. See you in class!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "89637d87",
+  "text": "Great, it’s at 11 in the library. See you in class!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5baf841f",
+  "text": "Sure, go ahead.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "1d89e649",
+  "text": "I’m doing a degree in",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a84b336d",
+  "text": "I find difficult.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "7fc55093",
+  "text": "Sorry, I’m busy this Saturday.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "024aa3bf",
+  "text": "Hi! How is the report coming along?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "450d90ca",
+  "text": "Thanks for telling me early. We’ll sort it out together. Can you finish it by Thursday?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d45e7adc",
+  "text": "Good to hear. Can you finish it by Thursday?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "d6af5404",
+  "text": "Friday morning is fine. Do you need any help from the team?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "b33b0058",
+  "text": "Perfect. Do you need any help from the team?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "11f2ffa9",
+  "text": "Okay, let me know anytime. Great work this week, by the way.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c8892da2",
+  "text": "You deserve it. Talk to you later. Have a productive day!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6db511a9",
+  "text": "I’m still working on it.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "c6bace05",
+  "text": "Could I have until Friday?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "10e40dd3",
+  "text": "Could someone check?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "6fb1d266",
+  "text": "Thank you, I appreciate it.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "148f593a",
+  "text": "Thanks for coming in. Please tell me about yourself.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "bf6558cf",
+  "text": "Thank you, that’s helpful. What is your biggest strength?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "5e232eab",
+  "text": "That’s a useful strength. Why do you want to work with us?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "8e6b9690",
+  "text": "I see. Do you have any questions for me?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e66349df",
+  "text": "Good question! Thank you for your time. We’ll be in touch.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ae42f40a",
+  "text": "I’m currently / Before that, I / Now I’m looking for",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "70edb259",
+  "text": "My biggest strength is",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a57c6340",
+  "text": "I’d like to work here because",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "dd6b298d",
+  "text": "What are the next steps?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "670ca673",
+  "text": "Good morning, City Clinic. How can I help you?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "104176bd",
+  "text": "Sure, I can help with that. Which day works for you?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "f6ae6443",
+  "text": "Let me check the schedule. Sorry, you’re breaking up. Could you repeat that?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "ff52fcb1",
+  "text": "Yes, I can hear you now. You’re booked for Tuesday at 10 a.m. Anything else?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "feeccbf8",
+  "text": "Yes, please bring them. See you on Tuesday. Goodbye!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "27deaccd",
+  "text": "You’re welcome! See you on Tuesday. Goodbye!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "baa28bf6",
+  "text": "I’d like to book an appointment.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "3f872641",
+  "text": "Is possible?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "cda63d6d",
+  "text": "Can you hear me now?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "841b7079",
+  "text": "You look a little lost. Can I help?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "942992c3",
+  "text": "Sure, tell me where you need to go. Go straight and turn left at the signal. It’s next to a bank.",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "56b9b498",
+  "text": "Of course: straight, then left at the signal. Is there anything else you need?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "e064e905",
+  "text": "Exactly! Is there anything else you need?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "9b6ce48a",
+  "text": "It’s about five minutes on foot. Okay, good luck!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "30ecd103",
+  "text": "You’re welcome! Glad I could help. Take care!",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "7ee92231",
+  "text": "So, straight and then left?",
+  "voice": "en-IN-NeerjaNeural"
+ },
+ {
+  "key": "a9f4c415",
+  "text": "Thank you so much for your help!",
+  "voice": "en-IN-NeerjaNeural"
+ }
+]

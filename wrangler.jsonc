@@ -1,0 +1,28 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bolo-english",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      // self-reference required by OpenNext
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "bolo-english"
+    }
+  ],
+  // Learner progress backups (optional, opt-in from Settings)
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "bolo-english-db",
+      "database_id": "59719602-645c-478f-aa33-34f65f9786d9",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "observability": { "enabled": true }
+}
