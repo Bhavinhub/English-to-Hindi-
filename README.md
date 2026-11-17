@@ -30,7 +30,8 @@ No API keys are needed. The whole guest experience runs in the browser.
 | Hindi → English lookup + practice challenge | 34 curated examples, Devanagari and Romanized input, fuzzy matching |
 | Flashcards (45 words) | Listen, save, search, Leitner-style spaced review |
 | Dashboard, progress, achievements | Calculated only from real guest activity; new users start at zero |
-| Settings | Interface language, explanation language, theme, reduced motion/transparency, speech speed, daily goal, export, clear data (with confirmation) |
+| Settings | Interface language, explanation language, theme, reduced motion/transparency, speech speed, daily goal, optional cloud backup, export, clear data (with confirmation) |
+| Info pages | Help, About, Privacy, Terms, Accessibility, Copyright & credits |
 
 ### Browser speech features
 
@@ -50,6 +51,24 @@ python3 scripts/generate_audio.py      # creates missing clips, removes unused o
 ```
 
 `edge-tts` uses Microsoft Edge's online read-aloud service, so generation needs internet; the generated MP3s work offline. To use a different free voice, change `FEMALE`/`MALE` in `scripts/collect-audio-lines.mts` (list voices with `edge-tts --list-voices`), delete `public/audio`, and run both steps again.
+
+## Cloudflare: hosting and database
+
+The site runs on **Cloudflare Workers** (via [OpenNext](https://opennext.js.org/cloudflare)) and uses a **Cloudflare D1** database for the optional cloud backup.
+
+- Live: https://bolo-english.bazar-ledger.workers.dev
+- Worker name: `bolo-english` · D1 database: `bolo-english-db` (binding `DB`) — see `wrangler.jsonc`
+- Schema: `migrations/0001_progress_backups.sql` (stores a SHA-256 hash of each backup code, never the code)
+
+```bash
+npx wrangler login                 # once
+npm run db:migrate:remote          # apply database migrations
+npm run deploy                     # build with OpenNext and deploy the Worker
+npm run preview                    # run the Cloudflare build locally (uses a local D1)
+npm run db:migrate:local           # set up the local D1 for preview
+```
+
+Cloud backup is **opt-in** from Settings. Without D1 (e.g. plain `next start`) the site still works fully and the backup card says it is unavailable. AI keys, if used, are set as Worker secrets: `npx wrangler secret put ANTHROPIC_API_KEY`.
 
 ## Optional: connected AI
 
